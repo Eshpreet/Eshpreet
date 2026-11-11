@@ -38,16 +38,19 @@
 - Power BI and business intelligence
 - Data Structures and Algorithms
   
-  ## 🌐 Connect With Me
+  
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/eshpreet-singh-39b164315/)">
+  <a href="https://www.linkedin.com/in/eshpreet-singh-39b164315/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <br/>
+  <a href="https://github.com/Eshpreet">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <br/>
+  <a href="mailto:eshpreetsingh2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
